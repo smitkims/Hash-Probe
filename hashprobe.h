@@ -1,8 +1,4 @@
-/**
-  *
-  * Assignment 2 for ECE430.217 Data Structures
-  *
- **/
+
 #include <iostream>
 
 using namespace std;
